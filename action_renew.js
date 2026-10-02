@@ -646,3 +646,4 @@ async function attemptTurnstileCdp(page) {
     await browser.close();
     process.exit(0);
 })();
+ 
